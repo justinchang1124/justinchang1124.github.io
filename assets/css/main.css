@@ -2140,7 +2140,7 @@ input[type="submit"].big,input[type="reset"].big,input[type="button"].big,button
 }
 
 input[type="submit"].special,input[type="reset"].special,input[type="button"].special,button.special,.button.special {
-    background-color: #00a65a;
+    background-color: #3f3fff;
     box-shadow: none !important;
     color: #ffffff !important
 }
@@ -2899,7 +2899,7 @@ input[type="button"].disabled,input[type="button"]:disabled,button.disabled,butt
     -ms-transition: -ms-transform 0.5s ease;
     transition: transform 0.5s ease;
     -webkit-overflow-scrolling: touch;
-    background: #00a65a;
+    background: #3f3fff;
     color: #ffffff;
     height: 100%;
     max-width: 80%;
