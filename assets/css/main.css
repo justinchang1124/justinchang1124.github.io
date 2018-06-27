@@ -2435,7 +2435,7 @@ input[type="button"].disabled,input[type="button"]:disabled,button.disabled,butt
 
 .wrapper.style1 {
     background-color: #21b2a6;
-    color: #c7ebe8
+    color: #5050a0
 }
 
 .wrapper.style1 strong,.wrapper.style1 b {
@@ -2468,7 +2468,7 @@ input[type="button"].disabled,input[type="button"]:disabled,button.disabled,butt
 }
 
 .wrapper.style1 header.major p {
-    color: #c7ebe8
+    color: #5050a0
 }
 
 .wrapper.style1 label {
@@ -2485,7 +2485,7 @@ input[type="button"].disabled,input[type="button"]:disabled,button.disabled,butt
 }
 
 .wrapper.style1 input[type="checkbox"]+label,.wrapper.style1 input[type="radio"]+label {
-    color: #c7ebe8
+    color: #5050a0
 }
 
 .wrapper.style1 input[type="checkbox"]+label:before,.wrapper.style1 input[type="radio"]+label:before {
